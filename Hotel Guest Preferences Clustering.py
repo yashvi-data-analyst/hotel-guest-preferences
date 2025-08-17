@@ -1,9 +1,6 @@
 # ===========================================
 # HOTEL GUEST PREFERENCES CLUSTERING PROJECT
 # ===========================================
-# ===========================================
-# HOTEL GUEST PREFERENCES CLUSTERING PROJECT
-# ===========================================
 
 # PHASE 1 & 2: Data Loading & Preparation
 import pandas as pd
@@ -121,6 +118,3 @@ for c in df['Cluster'].unique():
 print("\n✅ All plots saved in 'charts/' folder.")
 
 
-
-for c in df['cluster'].unique():
-    sub = df 
