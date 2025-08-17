@@ -21,7 +21,6 @@ to group hotel guests based on their **stay duration, spending behavior, and boo
 
 
 ## 📈 Visualizations
-## 📈 Visualizations
 - Elbow Method → see `charts/elbow_method.png`
 - Guest Clusters → see `charts/pca_clusters.png`
 - Average Spending → see `charts/cluster_spending.png`
