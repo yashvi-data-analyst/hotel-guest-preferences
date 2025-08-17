@@ -21,17 +21,16 @@ to group hotel guests based on their **stay duration, spending behavior, and boo
 
 
 ## 📈 Visualizations
-
 ### Elbow Method
-![Elbow](charts/elbow_method.png)
+<img src="charts/elbow_method.png" alt="Elbow Method" width="500"/>
 
-### Guest Clusters (PCA 2D View)
-![Clusters](charts/pca_clusters.png)
+### Guest Clusters
+<img src="charts/pca_clusters.png" alt="Guest Clusters" width="500"/>
 
-### Average Spending by Cluster
-![Spending](charts/cluster_spending.png)
+### Average Spending
+<img src="charts/cluster_spending.png" alt="Spending" width="500"/>
 
----
+
 
 ## 🔍 Insights
 - Guests can be grouped into clusters like **Luxury Seekers**, **Budget Travelers**, etc.  
@@ -53,5 +52,7 @@ hotel-guest-clustering/
 │ ├── pca_clusters.png
 │ ├── cluster_spending.png
 │── README.md
+
+
 
 PROJECT BY YASHVI VERMA
