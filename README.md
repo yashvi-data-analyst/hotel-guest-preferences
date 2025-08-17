@@ -50,4 +50,4 @@ hotel-guest-clustering/
 
 
 
-PROJECT BY YASHVI VERMA
+Made with ❤️ by Yashvi Verma
