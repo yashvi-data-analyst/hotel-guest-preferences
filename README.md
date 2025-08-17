@@ -22,7 +22,7 @@ to group hotel guests based on their **stay duration, spending behavior, and boo
 
 ## 📈 Visualizations
 ### Elbow Method
-<img src="charts/elbow_method.png" alt="Elbow Method" width="500"/>
+<img src="charts/elbow_method.png" alt="Elbow Method" width="400"/>
 
 ### Guest Clusters
 <img src="charts/pca_clusters.png" alt="Guest Clusters" width="500"/>
